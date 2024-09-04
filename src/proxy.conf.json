@@ -1,0 +1,8 @@
+{
+    "api/": {
+        "target": "https://www.fruityvice.com/api",
+        "secure": false,
+        "changeOrigin": true
+        
+    }
+}
